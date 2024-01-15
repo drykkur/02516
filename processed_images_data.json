@@ -1,0 +1,1596 @@
+[
+    {
+        "image": "Potholes/anno_1/img-1.jpg",
+        "boxes": [
+            {
+                "box": [
+                    214,
+                    236,
+                    309,
+                    145
+                ],
+                "label": "pothole"
+            },
+            {
+                "box": [
+                    209,
+                    234,
+                    213,
+                    391
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    211,
+                    236,
+                    423,
+                    142
+                ],
+                "label": "pothole"
+            },
+            {
+                "box": [
+                    209,
+                    254,
+                    142,
+                    242
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    137,
+                    234,
+                    285,
+                    389
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    213,
+                    64,
+                    53
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    454,
+                    203,
+                    68,
+                    67
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    454,
+                    241,
+                    68,
+                    81
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    207,
+                    175,
+                    221,
+                    402
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    243,
+                    79,
+                    84
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    185,
+                    64,
+                    86
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    84,
+                    235,
+                    341,
+                    312
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    138,
+                    236,
+                    559,
+                    310
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    241,
+                    81,
+                    64
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    478,
+                    38,
+                    45,
+                    27
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    242,
+                    96,
+                    72
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    206,
+                    90,
+                    64
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    370,
+                    499,
+                    105,
+                    68
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    243,
+                    93,
+                    52
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    207,
+                    174,
+                    491,
+                    430
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    456,
+                    231,
+                    67,
+                    35
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    142,
+                    255,
+                    209,
+                    246
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    198,
+                    147,
+                    322,
+                    541
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    83,
+                    232,
+                    392,
+                    392
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    595,
+                    42,
+                    54,
+                    25
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    209,
+                    274,
+                    77,
+                    191
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    422,
+                    221,
+                    99,
+                    45
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    442,
+                    195,
+                    87,
+                    71
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    241,
+                    64,
+                    41
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    244,
+                    406,
+                    175,
+                    223
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    178,
+                    79,
+                    92
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    453,
+                    241,
+                    69,
+                    121
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    242,
+                    438,
+                    178,
+                    128
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    361,
+                    535,
+                    28,
+                    31
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    181,
+                    355,
+                    106,
+                    112
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    214,
+                    301,
+                    71,
+                    81
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    242,
+                    90,
+                    80
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    238,
+                    94,
+                    97
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    352,
+                    447,
+                    67,
+                    94
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    177,
+                    309,
+                    55,
+                    80
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    142,
+                    357,
+                    208,
+                    139
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    457,
+                    196,
+                    81,
+                    70
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    370,
+                    499,
+                    76,
+                    108
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    138,
+                    360,
+                    149,
+                    105
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    478,
+                    29,
+                    46,
+                    36
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    397,
+                    206,
+                    123,
+                    64
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    181,
+                    320,
+                    169,
+                    178
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    643,
+                    301,
+                    55,
+                    38
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    180,
+                    279,
+                    51,
+                    114
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    206,
+                    361,
+                    144,
+                    135
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    370,
+                    499,
+                    103,
+                    109
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    178,
+                    91,
+                    94
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    211,
+                    316,
+                    72,
+                    63
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    368,
+                    499,
+                    77,
+                    68
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    218,
+                    437,
+                    203,
+                    185
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    216,
+                    286,
+                    80,
+                    93
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    204,
+                    9,
+                    219,
+                    335
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    454,
+                    243,
+                    118,
+                    80
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    243,
+                    250,
+                    109,
+                    248
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    189,
+                    322,
+                    42,
+                    49
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    182,
+                    249,
+                    175,
+                    377
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    296,
+                    238,
+                    224,
+                    139
+                ],
+                "label": "pothole"
+            },
+            {
+                "box": [
+                    457,
+                    143,
+                    63,
+                    139
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    216,
+                    273,
+                    96,
+                    109
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    129,
+                    319,
+                    102,
+                    88
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    352,
+                    472,
+                    66,
+                    69
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    442,
+                    163,
+                    78,
+                    120
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    208,
+                    259,
+                    113,
+                    215
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    214,
+                    1,
+                    323,
+                    330
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    369,
+                    499,
+                    105,
+                    44
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    156,
+                    309,
+                    77,
+                    81
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    478,
+                    53,
+                    46,
+                    40
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    250,
+                    239,
+                    272,
+                    116
+                ],
+                "label": "pothole"
+            },
+            {
+                "box": [
+                    216,
+                    256,
+                    112,
+                    173
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    370,
+                    499,
+                    58,
+                    103
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    443,
+                    185,
+                    99,
+                    86
+                ],
+                "label": "background"
+            }
+        ]
+    },
+    {
+        "image": "Potholes/anno_1/img-2.jpg",
+        "boxes": [
+            {
+                "box": [
+                    558,
+                    590,
+                    61,
+                    127
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    526,
+                    592,
+                    91,
+                    124
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    592,
+                    592,
+                    91,
+                    125
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    429,
+                    6,
+                    64,
+                    47
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    38,
+                    87,
+                    56
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    538,
+                    564,
+                    80,
+                    156
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    28,
+                    63,
+                    25
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    37,
+                    63,
+                    57
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    227,
+                    114,
+                    52
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    489,
+                    590,
+                    130,
+                    128
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    227,
+                    114,
+                    80
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    426,
+                    37,
+                    92,
+                    40
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    402,
+                    592,
+                    215,
+                    125
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    349,
+                    3,
+                    32,
+                    20
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    389,
+                    677,
+                    35,
+                    39
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    303,
+                    227,
+                    135,
+                    68
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    518,
+                    554,
+                    101,
+                    166
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    589,
+                    65,
+                    35,
+                    39
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    222,
+                    114,
+                    41
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    140,
+                    136,
+                    123
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    37,
+                    88,
+                    82
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    592,
+                    91,
+                    33,
+                    44
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    586,
+                    91,
+                    39,
+                    33
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    301,
+                    226,
+                    115,
+                    109
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    349,
+                    9,
+                    31,
+                    43
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    429,
+                    38,
+                    66,
+                    32
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    539,
+                    496,
+                    79,
+                    221
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    77,
+                    395,
+                    68,
+                    49
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    574,
+                    496,
+                    25,
+                    25
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    226,
+                    135,
+                    96
+                ],
+                "label": "pothole"
+            },
+            {
+                "box": [
+                    398,
+                    38,
+                    121,
+                    56
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    157,
+                    112,
+                    106
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    413,
+                    37,
+                    81,
+                    49
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    429,
+                    22,
+                    66,
+                    33
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    591,
+                    544,
+                    126,
+                    176
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    430,
+                    38,
+                    63,
+                    24
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    302,
+                    210,
+                    139,
+                    55
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    426,
+                    14,
+                    77,
+                    41
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    402,
+                    543,
+                    215,
+                    173
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    592,
+                    524,
+                    88,
+                    196
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    592,
+                    590,
+                    60,
+                    127
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    226,
+                    136,
+                    133
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    76,
+                    428,
+                    67,
+                    57
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    349,
+                    9,
+                    35,
+                    56
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    385,
+                    667,
+                    38,
+                    50
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    76,
+                    407,
+                    67,
+                    37
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    302,
+                    185,
+                    138,
+                    79
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    373,
+                    237,
+                    66,
+                    25
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    429,
+                    5,
+                    96,
+                    49
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    348,
+                    2,
+                    51,
+                    21
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    302,
+                    136,
+                    100,
+                    128
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    373,
+                    221,
+                    67,
+                    40
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    657,
+                    163,
+                    54,
+                    33
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    6,
+                    526,
+                    39,
+                    33
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    477,
+                    54,
+                    40,
+                    28
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    574,
+                    475,
+                    25,
+                    28
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    577,
+                    496,
+                    28,
+                    25
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    71,
+                    428,
+                    72,
+                    40
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    386,
+                    653,
+                    37,
+                    63
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    296,
+                    126,
+                    122,
+                    142
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    286,
+                    227,
+                    152,
+                    112
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    677,
+                    163,
+                    34,
+                    49
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    429,
+                    37,
+                    65,
+                    84
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    286,
+                    166,
+                    152,
+                    97
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    300,
+                    232,
+                    104,
+                    70
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    73,
+                    382,
+                    69,
+                    63
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    261,
+                    144,
+                    177,
+                    119
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    397,
+                    38,
+                    96,
+                    52
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    592,
+                    91,
+                    52,
+                    40
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    346,
+                    9,
+                    43,
+                    44
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    589,
+                    76,
+                    70,
+                    28
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    586,
+                    56,
+                    38,
+                    48
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    340,
+                    9,
+                    41,
+                    56
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    569,
+                    92,
+                    54,
+                    24
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    373,
+                    240,
+                    68,
+                    57
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    303,
+                    227,
+                    163,
+                    80
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    456,
+                    54,
+                    63,
+                    24
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    361,
+                    678,
+                    64,
+                    38
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    574,
+                    91,
+                    49,
+                    38
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    463,
+                    53,
+                    55,
+                    32
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    589,
+                    91,
+                    36,
+                    24
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    685,
+                    163,
+                    31,
+                    27
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    502,
+                    495,
+                    116,
+                    222
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    413,
+                    33,
+                    79,
+                    75
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    591,
+                    70,
+                    72,
+                    35
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    386,
+                    35,
+                    133,
+                    69
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    464,
+                    543,
+                    164,
+                    173
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    371,
+                    246,
+                    48,
+                    48
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    329,
+                    2,
+                    51,
+                    21
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    406,
+                    679,
+                    67,
+                    38
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    682,
+                    28,
+                    28,
+                    28
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    61,
+                    428,
+                    82,
+                    32
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    681,
+                    28,
+                    39,
+                    20
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    373,
+                    196,
+                    66,
+                    66
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    429,
+                    38,
+                    88,
+                    114
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    349,
+                    9,
+                    32,
+                    28
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    408,
+                    666,
+                    49,
+                    51
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    304,
+                    225,
+                    134,
+                    199
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    301,
+                    107,
+                    142,
+                    160
+                ],
+                "label": "background"
+            },
+            {
+                "box": [
+                    397,
+                    5,
+                    96,
+                    49
+                ],
+                "label": "background"
+            }
+        ]
+    }
+]
